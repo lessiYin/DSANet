@@ -5,8 +5,11 @@ Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangl
 </h2>
 
 <p align="center">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38191">
+    <img src="https://img.shields.io/badge/Paper-AAAI%202026-000080.svg" alt="AAAI Official Paper">
+  </a>
   <a href="https://arxiv.org/abs/2511.10334">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2511.10334-b31b1b.svg" alt="Paper">
+    <img src="https://img.shields.io/badge/Paper-arXiv%3A2511.10334-b31b1b.svg" alt="arXiv Paper">
   </a>
   <a href="https://drive.google.com/drive/folders/1PqvaNm_s-fOOrnJRqrG50zV2R2UqRwHK?usp=sharing">
     <img src="https://img.shields.io/badge/Weights-Google%20Drive-blue.svg" alt="Weights">
@@ -106,12 +109,12 @@ We thank the authors of the following repositories for their valuable work and c
 If you find this repository useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{yin2025learningtellapartweakly,
-      title={Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment}, 
-      author={Wenti Yin and Huaxin Zhang and Xiang Wang and Yuqing Lu and Yicheng Zhang and Bingquan Gong and Jialong Zuo and Li Yu and Changxin Gao and Nong Sang},
-      year={2025},
-      eprint={2511.10334},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.10334}, 
+@inproceedings{yin2026learning,
+  title={Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment},
+  author={Yin, Wenti and Zhang, Huaxin and Wang, Xiang and Lu, Yuqing and Zhang, Yicheng and Gong, Bingquan and Zuo, Jialong and Yu, Li and Gao, Changxin and Sang, Nong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={14},
+  pages={12027--12035},
+  year={2026}
 }
